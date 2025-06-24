@@ -1,0 +1,26 @@
+From a9e384a98487d617161a44e58abf7ae3e7f2e396 Mon Sep 17 00:00:00 2001
+From: pingzeshi <3074546382@qq.com>
+Date: Sun, 6 Apr 2025 10:59:22 +0800
+Subject: [PATCH 5/5] a new
+
+---
+ main.js | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+diff --git a/main.js b/main.js
+index e69de29..d082d5e 100644
+--- a/main.js
++++ b/main.js
+@@ -0,0 +1,9 @@
++!function() {
++    "use strict";
++    var e = document.querySelector(".js-scroll");
++    e && new ScrollMagic.Scene({
++        triggerElement: e,
++        duration: 1e3,
++        triggerHook: .9
++    }).setClassToggle(e, "is-active").addTo(new ScrollMagic.Controller)
++}();
+-- 
+2.49.0.windows.1
+

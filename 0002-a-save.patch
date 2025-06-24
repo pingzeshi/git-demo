@@ -1,0 +1,27 @@
+From 1aadec32783f8a21917d1cd164ace4afdcf7a30b Mon Sep 17 00:00:00 2001
+From: pingzeshi <3074546382@qq.com>
+Date: Sun, 6 Apr 2025 10:36:40 +0800
+Subject: [PATCH 2/5] a save
+
+---
+ index.html | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/index.html b/index.html
+index d01f779..ad93740 100644
+--- a/index.html
++++ b/index.html
+@@ -6,6 +6,9 @@
+     <title>Document</title>
+ </head>
+ <body>
++    demo
+     
++    run --allow-net --allow-read --allow-write --allow-env --allow-run=git,deno,git-crypt ./index.ts
++
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.49.0.windows.1
+
