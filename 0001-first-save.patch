@@ -1,0 +1,31 @@
+From fe3342c665518ca0ae4cbf62e33f33e7aa55c9f3 Mon Sep 17 00:00:00 2001
+From: pingzeshi <3074546382@qq.com>
+Date: Sun, 6 Apr 2025 10:34:12 +0800
+Subject: [PATCH 1/5] first save
+
+---
+ index.html | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+ create mode 100644 index.html
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..d01f779
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Document</title>
++</head>
++<body>
++    
++</body>
++</html>
+\ No newline at end of file
+-- 
+2.49.0.windows.1
+
